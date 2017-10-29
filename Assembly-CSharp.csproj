@@ -105,6 +105,7 @@
     <Compile Include="Assets\Scripts\starwars\brains\DarthShipBrain.cs" />
     <Compile Include="Assets\Scripts\starwars\brains\DefenderBrain.cs" />
     <Compile Include="Assets\Scripts\starwars\brains\EvaderBrain.cs" />
+    <Compile Include="Assets\Scripts\starwars\brains\FalafelBrain.cs" />
     <Compile Include="Assets\Scripts\starwars\brains\HunterBrain.cs" />
     <Compile Include="Assets\Scripts\starwars\brains\PlayerBrain.cs" />
     <Compile Include="Assets\Scripts\starwars\brains\SnakeBrain.cs" />
