@@ -1,0 +1,47 @@
+Initialize engine version: 5.6.4f1 (ac7086b8d112)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 610 (ID=0x104a)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.122 seconds
+Platform assembly: C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\omerb\Documents\UnityProjects\ExStarWars\yes_Data\Managed\System.dll (this message is harmless)
+desktop: 1768x992 60Hz; virtual: 3048x1085 at -1280,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.048319 ms
+3.58: Using 2 sound sources and 1 music sources
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4.58: RegisterSpaceship Hunter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Exception: FalafelShip does not have a brain!
+Did you add the _SpaceshipTemplate_ to the scene or forgot to add your brain script to the prefab?
+  at Infra.DebugUtils.Assert (Boolean condition, System.String message) [0x00000] in <filename unknown>:0 
+  at StarWars.SpaceshipBody.Activate (Vector2 position, Single angle, StarWars.Mutable space) [0x00000] in <filename unknown>:0 
+  at StarWars.Game.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: f7a44 -> priority: 1 
+  Thread -> id: f7af4 -> priority: 1 
+  Thread -> id: f7afc -> priority: 1 
+  Thread -> id: f7b10 -> priority: 1 

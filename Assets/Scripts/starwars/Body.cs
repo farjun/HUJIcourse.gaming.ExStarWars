@@ -4,6 +4,7 @@ using Infra.Utils;
 namespace StarWars {
 /// <summary>
 /// A visible body. Can move and rotate.
+/// an Assasin brain
 /// </summary>
 public abstract class Body : MonoBehaviour {
 

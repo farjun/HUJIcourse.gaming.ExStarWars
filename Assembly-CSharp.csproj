@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{11C06380-0218-D4ED-DF4D-8D3DC7F47E6A}</ProjectGuid>
+    <ProjectGuid>{291963A2-CB4A-0369-4668-F9E9D5CECAD6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -102,6 +102,7 @@
     <Compile Include="Assets\Scripts\starwars\actions\Shoot.cs" />
     <Compile Include="Assets\Scripts\starwars\actions\TurnLeft.cs" />
     <Compile Include="Assets\Scripts\starwars\actions\TurnRight.cs" />
+    <Compile Include="Assets\Scripts\starwars\brains\AssassianBrain.cs" />
     <Compile Include="Assets\Scripts\starwars\brains\DarthShipBrain.cs" />
     <Compile Include="Assets\Scripts\starwars\brains\DefenderBrain.cs" />
     <Compile Include="Assets\Scripts\starwars\brains\EvaderBrain.cs" />
